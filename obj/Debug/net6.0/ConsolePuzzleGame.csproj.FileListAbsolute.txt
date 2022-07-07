@@ -1,0 +1,15 @@
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/bin/Debug/net6.0/ConsolePuzzleGame
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/bin/Debug/net6.0/ConsolePuzzleGame.deps.json
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/bin/Debug/net6.0/ConsolePuzzleGame.runtimeconfig.json
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/bin/Debug/net6.0/ConsolePuzzleGame.dll
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/bin/Debug/net6.0/ConsolePuzzleGame.pdb
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/ConsolePuzzleGame.csproj.AssemblyReference.cache
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/ConsolePuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/ConsolePuzzleGame.AssemblyInfoInputs.cache
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/ConsolePuzzleGame.AssemblyInfo.cs
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/ConsolePuzzleGame.csproj.CoreCompileInputs.cache
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/ConsolePuzzleGame.dll
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/refint/ConsolePuzzleGame.dll
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/ConsolePuzzleGame.pdb
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/ConsolePuzzleGame.genruntimeconfig.cache
+/Users/mineTomek/Desktop/Git Projects/ConsolePuzzleGame/obj/Debug/net6.0/ref/ConsolePuzzleGame.dll
