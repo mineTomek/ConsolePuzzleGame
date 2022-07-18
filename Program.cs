@@ -14,18 +14,18 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
         static void DisplayTerrain(int levelIndex) {
             string json = File.ReadAllText($"Levels/level{levelIndex}.json");
-            Level level = JsonSerializer.Deserialize<Level>(json);
-            Console.WriteLine(json);
+            Level? level = JsonSerializer.Deserialize<Level>(json, new JsonSerializerOptions() {});
+            Console.WriteLine(level.layers.Length);
             //Console.WriteLine(level.Stringify(0));
         }
 
         class Level {
-            public List<Block> blocks = new List<Block>();
+            public Block[] blocks;
 
-            public List<Layer> layers = new List<Layer>();
+            public Layer[] layers;
 
             public class Layer {
-                public List<string> terrain = new List<string>();
+                public string[] terrain;
             }
 
             public class Block {
